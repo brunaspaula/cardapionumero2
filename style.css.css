@@ -1,0 +1,67 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #8236bc08 ;
+      margin: 0p
+
+    }
+
+
+    
+    .menu-container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #000e907c;
+      padding: 20px;
+      box-shadow: 0 2px 4px rgba(111, 122, 127, 0.83);
+    }
+        
+    .restaurant-info {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      
+      .restaurant-info h1 {
+        font-size: 24px;
+        color: #333333;
+        margin: 0;
+      }
+      
+      .restaurant-info p {
+        font-size: 16px;
+        color: #0c0202;
+        margin: 0;
+      }
+      
+      .product {
+        margin-bottom: 20px;
+        border-bottom: 1px solid #b09e9e;
+        padding-bottom: 10px;
+      }
+      
+      .product h3 {
+        font-size: 20px;
+        color: #b89356;
+        margin: 0;
+      }
+      
+      .product  {
+        font-size: 14px;
+        color: #932222;
+        margin: 0;
+      }
+      
+      .product-price {
+        font-weight: bold;
+      }
+      
+      .contact-info {
+        margin-top: 20px;
+        text-align: center;
+      }
+      
+      .contact-info p {
+        color: #080101;
+        margin: 0;
+      }
+  
